@@ -4,7 +4,7 @@
 }
 .navbar {
   border: none;
-  background-color: black;
+  background-color: rgb(194, 189, 189);
   color: #486112;
 }
 body {
@@ -18,10 +18,10 @@ body {
 
 .center {
   width: 90%;
-  background-color: grey;
+  background-color: #eee;
 }
 .container {
-  background-color: grey;
+  background-color: #eee;
 }
 .text-center {
   font-size: 30px;
@@ -36,3 +36,4 @@ h2 {
 .navbar-brand {
   font-size: 30px;
 }
+
